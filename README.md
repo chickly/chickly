@@ -7,7 +7,7 @@
 - 📫 个人邮箱：2893784448@qq.com
 
 欢迎来找我玩~  
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=HOLLYwyh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=chickly&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 <!--
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLLYwyh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
